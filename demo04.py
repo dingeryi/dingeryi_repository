@@ -14,6 +14,7 @@
 # else:
 #     print("您好女士")
 # print("欢迎光临！")
+#
 
 
 sex=input("请输入性别：")
